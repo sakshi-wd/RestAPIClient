@@ -9,9 +9,9 @@
 
 # Description
 
-# 🌦️ WeatherApp – Java Console Application using OpenWeatherMap API
+# A JAVA APPLICATION THAT CONSUMES A PUBLIC REST API (E.G., FETCHING WEATHER DATA) AND DISPLAYS THE DATA IN A STRUCTURED FORMAT.
 
-WeatherApp is a simple and educational Java console application that fetches real-time weather data for any city using the OpenWeatherMap REST API. It demonstrates how Java can interact with online APIs, handle JSON responses, and display the results in a clean, structured format.
+It is a simple and educational Java console application that fetches real-time weather data for any city using the OpenWeatherMap REST API. It demonstrates how Java can interact with online APIs, handle JSON responses, and display the results in a clean, structured format.
 
 # Features
 
@@ -53,6 +53,7 @@ You can build on this app by adding more features like checking multiple cities,
 
 # output
 
+<img width="1582" height="846" alt="Image" src="https://github.com/user-attachments/assets/658bc1f0-2af3-408a-b706-489c27915afd" />
 
 
 
