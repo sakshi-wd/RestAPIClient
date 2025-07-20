@@ -8,9 +8,6 @@ import java.util.Scanner;
 /**
  * A simple Java console application that fetches weather data from
  * OpenWeatherMap API and displays temperature, humidity, weather description, and wind speed.
- *
- * Author: Sakshi Swami
- * Date: July 2025
  */
 public class WeatherApp {
 
